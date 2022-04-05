@@ -52,7 +52,7 @@ df2_new
  ![](./4.jpg)
  v)
  ![](./5.jpg)
- v)
+ vi)
  ![](./6.jpg)
 
  # RESULT :
